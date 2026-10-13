@@ -24,6 +24,3 @@ Mi forma de trabajar:
 
 
 Gracias por pasar por acá. Si tenés alguna consulta, querés colaborar en un proyecto o simplemente charlar sobre datos, no dudes en escribirme.
-1. **Entender el objetivo:** Antes de tocar un dato, me aseguro de entender bien qué problema queremos resolver.
-2. **Cuidar los datos:** Priorizo la precisión, la limpieza y la consistencia en todo el proceso.
-3. **Comunicación simple:** Busco que los resultados sean fáciles de interpretar, sin vueltas ni tecnicismos innecesarios.
